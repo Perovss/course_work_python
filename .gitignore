@@ -1,2 +1,5 @@
 token_yandex.txt
 token.txt
+__pycache__/api_service.cpython-39.pyc
+__pycache__/api_service.cpython-310.pyc
+.idea/*
